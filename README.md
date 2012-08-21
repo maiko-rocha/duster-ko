@@ -1,5 +1,11 @@
 # Duster-Ko #
 
+### Note on Development ###
+
+Social Tables is not actively developing Duster-KO at the moment, and as such it may not be up to date with the latest changes to Dust and/or Knockout. Use at your own discretion. We are, however, always open to suggestions and pull requests.
+
+## Summary ##
+
 Duster-KO is a Dust.JS[1] implementation & hack-up of a Knockout[2] Template Engine[3]. There's not a lot of the well famed uber-schmancy asynchronous & parallel Dust.js super-powers going on; this is a pretty straight & simple means of using Dust.js templates.
 
 ### Table of Contents ###
